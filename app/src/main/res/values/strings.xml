@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Assignment MVVM</string>
+    <string name="empty_list">No data found!</string>
+    <string name="an_error_occurred">An error occurred</string>
+</resources>
